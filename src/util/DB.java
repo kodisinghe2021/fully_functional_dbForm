@@ -20,7 +20,7 @@ public class DB {
     public static Connection getConnection() throws Exception {
         if (c == null || c.isClosed()) {
             Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
-            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/masterinedu?autoReconnect=true","root", "maxinbest");
+            c = DriverManager.getConnection("jdbc:mysql://localhost:3306/masterinedu?autoReconnect=true","root", "");
         }
         return c;
     }
