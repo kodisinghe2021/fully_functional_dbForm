@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jarFiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jarFiles/jasperreports-extensions-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/commons-logging-api-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/mysql-connector-java-5.0.7-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/jdt-compiler-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/commons-digester-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/jasperreports-2.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/JasperBabylon-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/iReport.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/substance.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/commons-collections-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jarFiles/commons-beanutils-1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
